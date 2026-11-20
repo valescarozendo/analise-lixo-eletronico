@@ -1,4 +1,4 @@
-# ♻️ Do Consumo à Obsolescência: Hábitos Tecnológicos e Geração de Lixo Eletrônico
+# Do Consumo à Obsolescência: Hábitos Tecnológicos e Geração de Lixo Eletrônico
 
 ## Sobre o Projeto
 Este é um projeto acadêmico de Análise Exploratória de Dados (EDA) focado na sustentabilidade e no comportamento do consumidor em relação à tecnologia. O objetivo central é investigar o ciclo de vida dos dispositivos eletrônicos, desde o seu consumo até ao momento do seu descarte (obsolescência e lixo eletrônico - *E-waste*).
@@ -12,12 +12,12 @@ A análise procura responder a questões fundamentais:
 Os dados utilizados neste projeto são primários. A base de dados é composta por **70 respostas** recolhidas através de um questionário estruturado, direcionado a um público com níveis de escolaridade e faixas etárias diversificadas (média de 27 anos).
 *O *dataset* foi devidamente anonimizado.*
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 A análise e tratamento de dados foram inteiramente desenvolvidos em **Python**, recorrendo a *Jupyter Notebooks*. Bibliotecas utilizadas:
 * **Pandas:** Para manipulação estruturada dos dados, limpeza, padronização e cálculos estatísticos.
 * **Matplotlib & Seaborn:** Para a criação de visualizações de dados profissionais.
 
-## 🚀 Estrutura da Análise
+## Estrutura da Análise
 Para consultar a análise completa, abra o ficheiro [analise.ipynb](analise.ipynb) neste repositório. O processo inclui:
 1. **Limpeza e Padronização:** Tratamento de colunas, identificação de valores nulos e correção de tipos de dados.
 2. **Análise Exploratória de Dados (EDA):** Extração de métricas descritivas.
